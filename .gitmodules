@@ -1,0 +1,3 @@
+[submodule "vsc-fp-theme"]
+	path = vsc-fp-theme
+	url = https://github.com/joshdavies14/vsc-fp-theme
