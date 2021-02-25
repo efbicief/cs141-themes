@@ -20,6 +20,9 @@ Four beautiful CS141-inspired themes for Firefox.
 
 ![Theme Screenshot](https://raw.githubusercontent.com/efbicief/cs141-themes/main/firefox-themes/screenshots/lnlogo.png)
 
+### Ritual Edition
+
+![Theme Screenshot](https://raw.githubusercontent.com/efbicief/cs141-themes/main/firefox-themes/screenshots/notacult.png)
 
 ## Install instructions
 
